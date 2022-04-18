@@ -23,12 +23,8 @@ With PolkaOne, we want to make setting up your own DAO easier on Acala parachain
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- What need(s) does your project meet?
-- What makes your project unique?
-
+- Fast, flexible and gas-free voting based on on-chain activities for Polkadot and Acala ecosystem
+- Better integration with Substrate and Acala 
 
 ## Team 👥
 
@@ -52,7 +48,9 @@ PolkaVote is built by the team of PNS. The PNS (Polkadot Name System) team was e
 
 ### Future Plans
 
-Please include here
+Corss parachain assets tracking.
+EVM+ DeFi Apps integrations.
+Flexible and dynamic voting strategies with Subquery.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+
+
